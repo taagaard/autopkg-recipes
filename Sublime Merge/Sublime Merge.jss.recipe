@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Sublime Merge and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.SublimeMerge</string>
+	<string>com.github.taagaard.jss.SublimeMerge</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -30,7 +30,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.gotts.pkg.SublimeMerge</string>
+	<string>com.github.taagaard.pkg.SublimeMerge</string>
 	<key>Process</key>
 	<array>
 		<dict>

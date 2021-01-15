@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of MacDropAny.</string>
 	<key>Identifier</key>
-	<string>com.gotts.download.MacDropAny</string>
+	<string>com.github.taagaard.download.MacDropAny</string>
 	<key>Input</key>
 	<dict>
 		<key>GITHUB_REPO</key>

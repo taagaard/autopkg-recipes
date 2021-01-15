@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Installs the latest version of Sublime Merge.</string>
 	<key>Identifier</key>
-	<string>com.gotts.install.SublimeMerge</string>
+	<string>com.github.taagaard.install.SublimeMerge</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.gotts.download.SublimeMerge</string>
+	<string>com.github.taagaard.download.SublimeMerge</string>
 	<key>Process</key>
 	<array>
 		<dict>

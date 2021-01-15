@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of TextExpander.</string>
 	<key>Identifier</key>
-	<string>com.gotts.download.TextExpander</string>
+	<string>com.github.taagaard.download.TextExpander</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
